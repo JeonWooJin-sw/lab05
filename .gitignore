@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# android studio
+android_calc/.gradle/
+android_calc/.idea/
+android_calc/build/
+android_calc/app/build/
+android_calc/local.properties
+android_calc/.kotlin/
+*.iml
+_android_src/
